@@ -1444,6 +1444,7 @@ if(ENABLE_PLUGINS)
 		plugins/epan/gryphon
 		plugins/epan/irda
 		plugins/epan/mate
+		plugins/epan/mice
 		plugins/epan/opcua
 		plugins/epan/profinet
 		plugins/epan/stats_tree
